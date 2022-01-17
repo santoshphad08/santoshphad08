@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santosh Phad
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis (Using STATA/SPSS)
 - 🌱 I’m currently learning advanced statistical tools using R studio
 - 📫 How to reach me ... santoshphad08@gmail.com
 
